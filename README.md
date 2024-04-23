@@ -1,2 +1,2 @@
 # bank-account
-Praticing concepts of OOP.
+Learning object oriented programming with Java and applying basic concepts of constructors, overloading and encapsulation.
